@@ -1,0 +1,54 @@
+#general
+{
+    width: 800px;
+    height: 800px;
+    background-color: aquamarine;
+    padding: 0%;
+    border-radius: 1000px;
+    margin: auto;
+}
+#caja1
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: rgb(124, 16, 16);
+    margin-top: 120px;
+    margin-left: 120px;
+    float: left;
+}
+#caja2
+{width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: rgb(124, 16, 16);
+    margin-top: 120px;
+    margin-right: 120px;
+    float: right;
+}
+#caja3
+{
+    width: 100px;
+    height: 180px;
+    border-radius: 100px;
+    background-color: rgb(0, 255, 21);
+    margin-top: 50px;
+    margin-left: 350px;
+    float: left;
+}
+#caja4
+{
+    width: 300px;
+    height: 120px;
+    border-radius: 100px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 60px;
+    margin-left: 250px;
+    float: left;
+}
+#vox1
+{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(255, 145, 2);
+}
